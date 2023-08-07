@@ -157,3 +157,9 @@ ul li :hover{
     background-image: url(./desktop-wallpaper-gigabyte-gaming-computer-red-gaming-logo-background-cool-gaming-logo-thumbnail.jpg);
     background-position: left 20px;
 }
+.footer{
+    text-align: center;
+    padding-bottom: 25px;
+    color: rgba(255, 81, 0, 0.973);
+    font-weight: bold;
+}
